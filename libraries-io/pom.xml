@@ -57,8 +57,8 @@
         <!-- sftp -->
         <jsch.version>0.1.55</jsch.version>
         <sshj.version>0.37.0</sshj.version>
-        <vfs.version>2.4</vfs.version>
-        <zip4j.version>2.9.0</zip4j.version>
+        <vfs.version>2.10.0</vfs.version>
+        <zip4j.version>2.11.3</zip4j.version>
         <opencsv.version>5.8</opencsv.version>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
