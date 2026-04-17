@@ -28,7 +28,7 @@
 
     <properties>
         <h2database.version>2.2.220</h2database.version>
-        <mybatis.version>3.2.2</mybatis.version>
+        <mybatis.version>3.5.19</mybatis.version>
     </properties>
 
 </project>
